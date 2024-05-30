@@ -1,0 +1,10 @@
+# Flask API to create the app
+Flask
+# Scikit-Learn
+scikit-Learn
+# Pandas
+pandas
+# Numpy
+numpy
+# Matplot
+matplotlib
