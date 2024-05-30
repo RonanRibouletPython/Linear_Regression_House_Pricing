@@ -7,3 +7,5 @@ To activate the environment: conda activate C:\Users\Ronan\Documents\ML\Linear_R
 
 To install the required librairies:
 pip install -r requirements.txt
+
+To test the POST of the web app we can use Postman
