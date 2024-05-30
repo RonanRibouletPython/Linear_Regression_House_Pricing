@@ -1,4 +1,4 @@
-# Flask API to create the app
+# Flask API to create the web app
 Flask
 # Scikit-Learn
 scikit-Learn
